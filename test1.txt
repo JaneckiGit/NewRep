@@ -1,0 +1,6 @@
+testowy plik 
+
+add
+commit
+push
+
