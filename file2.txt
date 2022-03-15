@@ -3,3 +3,5 @@
 123
 123
 przed commitem
+po komicie na masterze
+po modyfikacji na masterze
